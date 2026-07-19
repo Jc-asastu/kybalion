@@ -49,7 +49,7 @@ An "observation" is a pattern that emerged while implementing the framework — 
 Every claim in this document can be inspected by running:
 
 ```bash
-git clone https://github.com/asastuai/kybalion.git
+git clone https://github.com/Jc-asastu/kybalion.git
 cd kybalion
 cargo test
 ```

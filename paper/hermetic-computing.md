@@ -186,7 +186,7 @@ Lattice-based cryptography [5] depends on hardness of finding short vectors in h
 
 The Seven Hermetic Principles offer a compact interpretive vocabulary for concepts that cryptography and quantum computing already express in their own languages. Expressing them as Rust traits makes the correspondences concrete enough to read, discuss, and contest. The two illustrative artifacts — the Hermetic Hash and the Magnum Opus — are educational compositions of those traits; they are not proposed as production primitives. The contribution here is framing: a vocabulary that may be useful for teaching, for interdisciplinary dialogue, or for those who already think through hermetic categories and want a way to connect that thinking to computation. Whether the vocabulary proves durable is for readers and time to decide.
 
-**Reproducibility:** All code and tests can be inspected and executed: `git clone https://github.com/asastuai/kybalion && cargo test`
+**Reproducibility:** All code and tests can be inspected and executed: `git clone https://github.com/Jc-asastu/kybalion && cargo test`
 
 # References
 

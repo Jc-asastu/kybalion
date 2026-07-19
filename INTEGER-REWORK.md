@@ -98,7 +98,7 @@ These are necessary, not sufficient. Serious deployment needs more (differential
 
 ## How to contribute
 
-1. Fork the repo: <https://github.com/asastuai/kybalion>
+1. Fork the repo: <https://github.com/Jc-asastu/kybalion>
 2. Pick one artifact to rework (start with the hash — smaller scope).
 3. Implement on integers, keeping the trait architecture and the seven-stage structure.
 4. Add tests: roundtrip, avalanche, distribution, collisions, platform-determinism.
