@@ -6,6 +6,10 @@ A research artifact and educational framework, not production cryptography.
 
 **[Try the Interactive Playground](https://jc-asastu.github.io/kybalion/)** | [Whitepaper](WHITEPAPER.md) | [Genesis](GENESIS.md) | [Research](RESEARCH.md) | [Paper (draft)](paper/hermetic-computing.md) | [Opus — the collaboration story](https://github.com/Jc-asastu/opus)
 
+[![The Qubit, live in the interactive playground — prepare states, apply gates, watch superposition dissolve and reconstitute](docs/qubit-demo.gif)](https://jc-asastu.github.io/kybalion/)
+
+*Click the qubit to enter the playground — page V of the codex.*
+
 ```
 Tests:           87 passed, 0 failed
 Avalanche ratio: 0.5001 (measured on a test sample, single-platform)
