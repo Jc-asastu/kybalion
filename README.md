@@ -4,7 +4,7 @@
 
 A research artifact and educational framework, not production cryptography.
 
-**[Try the Interactive Playground](https://asastuai.github.io/kybalion/)** | [Whitepaper](WHITEPAPER.md) | [Genesis](GENESIS.md) | [Research](RESEARCH.md) | [Paper (draft)](paper/hermetic-computing.md)
+**[Try the Interactive Playground](https://jc-asastu.github.io/kybalion/)** | [Whitepaper](WHITEPAPER.md) | [Genesis](GENESIS.md) | [Research](RESEARCH.md) | [Paper (draft)](paper/hermetic-computing.md) | [Opus — the collaboration story](https://github.com/Jc-asastu/opus)
 
 ```
 Tests:           87 passed, 0 failed
@@ -101,7 +101,7 @@ A compact illustration of a phenomenon long studied in complexity theory and sys
 ## Quick Start
 
 ```bash
-git clone https://github.com/asastuai/kybalion.git
+git clone https://github.com/Jc-asastu/kybalion.git
 cd kybalion
 cargo test
 cargo run --bin hermetic
@@ -170,7 +170,7 @@ We are not aware of prior work expressing the seven hermetic principles as Rust 
 
 ## Genesis
 
-This framework was built in a single 46-day session with an AI collaborator, with no prior programming experience by the author at the start. The process itself is the subject of [Opus](https://asastuai.github.io/opus/).
+This framework was built in a single 46-day session with an AI collaborator, with no prior programming experience by the author at the start. The process itself is the subject of **[Opus](https://github.com/Jc-asastu/opus)** — a six-chapter account of what the collaboration actually looked like, chapter by chapter.
 
 Full narrative in [Genesis](GENESIS.md). Technical write-up in the [Whitepaper](WHITEPAPER.md).
 
@@ -199,17 +199,15 @@ MIT
 
 ## Author and body of work
 
-Juan Cruz Maisu, `juancmaisu@outlook.com`, [github.com/asastuai](https://github.com/asastuai). Independent researcher, Buenos Aires, Argentina.
+Juan Cruz Maisu, `juancmaisu@outlook.com`, [github.com/Jc-asastu](https://github.com/Jc-asastu). Independent researcher, Buenos Aires, Argentina.
 
-This framework is part of an evolving body of work:
+Currently in a self-directed musical phase — building instruments (see [ÉTER PRISMA](https://github.com/Jc-asastu/eter-prisma), a spectral dispersion VST3/CLAP plugin) alongside darkpsy production, while research continues in parallel:
 
-- [Proof of Context (papers)](https://github.com/asastuai/proof-of-context): v0.6 framework + v0.1 applied to verifiable inference
-- [Proof of Context reference implementation](https://github.com/asastuai/proof-of-context-impl): Rust crate
-- [SUR Protocol](https://github.com/asastuai/sur-protocol): perp DEX with agent-native execution layer
+- [Hermetic Computing](https://github.com/Jc-asastu/kybalion): this repository
+- [Opus](https://github.com/Jc-asastu/opus): the collaboration story behind it
+- [Proof of Context (papers)](https://github.com/Jc-asastu/proof-of-context): v0.6 framework + v0.1 applied to verifiable inference
+- [Proof of Context reference implementation](https://github.com/Jc-asastu/proof-of-context-impl): Rust crate
 - [intent-cipher](https://crates.io/crates/intent-cipher): published crate, stream cipher with intent-keyed schedule
-- [Hermetic Computing](https://github.com/asastuai/kybalion): this repository
-
-**Status:** open to research-engineering and applied-research roles in inference attestation, decentralized ML infrastructure, agent-native systems, and adjacent fields. Remote, full-time, any timezone.
 
 ---
 
